@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react'
 import keys from '../keys';
 import { WiCloudy } from "react-icons/wi";
 import { WiMoonAltFirstQuarter } from "react-icons/wi";
-import axios from 'axios'
 import {ThemeProvider} from "styled-components";
 import { GlobalStyles } from "./components/Globalstyle";
 import { lightTheme, darkTheme } from "./components/Themes"
